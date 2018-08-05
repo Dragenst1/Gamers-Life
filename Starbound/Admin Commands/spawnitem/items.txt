@@ -1,0 +1,1 @@
+/spawnitem ironbar
